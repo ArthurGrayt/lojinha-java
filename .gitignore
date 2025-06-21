@@ -1,0 +1,17 @@
+# Ignorar arquivos de build
+/out
+/bin
+
+# Arquivos de configuração da IDE
+*.iml
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos compilados
+*.class
+
+# Logs
+*.log

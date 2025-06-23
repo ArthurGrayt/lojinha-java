@@ -59,7 +59,7 @@ public class Main {
             opcaoNumerica = 4;
         } else {
 
-            System.out.println("Não consegui entender sua escolha. Por favor, tente novamente digitando o número ou o nome do item.");
+            System.out.println("Não consegui entender sua escolha. Por favor, digite o número ou o nome do item.");
             System.exit(0);
         }
 
